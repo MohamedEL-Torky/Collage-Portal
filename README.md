@@ -7,4 +7,6 @@ Collage Portal Using JavaFX and Mysql for Database constructing
 3- You can use the Jar file I've uploaded it's last working version from my pc, but it will not work since you have to edit the
 Database Connection !.
 
+You can Also download the .rar file and extract it for the whole netbeans project.
+
 For further help leave comment or email me. mohamedtarekeltorky@gmail.com
